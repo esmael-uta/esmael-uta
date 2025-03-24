@@ -1,7 +1,7 @@
 # Hi there, I'm Esmael! 👋  
 🎓 Data Scientist | 📊 Machine Learning Engineer | 🚀 AI Enthusiast   
 
-I'm a final-year **Computer Science (Data Science)** student at Albukhary International University, obsessed with turning raw data into meaningful insights and scalable systems. Whether it’s crafting machine learning pipelines, designing interactive dashboards, or diving into analytics, I’m all about solving real-world problems with code and creativity.  
+I'm a final-year **Computer Science (Data Science)** student, obsessed with turning raw data into meaningful insights and scalable systems. Whether it’s crafting machine learning pipelines, designing interactive dashboards, or diving into analytics, I’m all about solving real-world problems with code and creativity.  
 
 - 🔭 **Currently exploring**: AI-driven solutions and data visualization magic  
 - 🌱 **Leveling up in**: Deep Learning, MLOps, and Cloud Tech (AWS/Azure)  
