@@ -22,5 +22,4 @@ I'm a final-year **Computer Science ( specializing in Data Science)** student, o
 - **Superpowers**: Data Mining and Visualization, ETL Pipelines, Predictive Modeling (ML model development and deployment), CI/CD
 
 I’ve sharpened my skills in transforming complex datasets into clear, actionable strategies for decision-makers.
-- 🔭 Currently **Looking** for the Internship.
 - *"Data doesn’t just sit there—it tells a story. Let’s make it epic!"*
